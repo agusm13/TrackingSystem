@@ -1,0 +1,5 @@
+# environment variables - never commit the real key
+.env
+
+# Node dependencies
+node_modules/
